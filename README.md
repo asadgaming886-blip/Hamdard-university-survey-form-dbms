@@ -1,1 +1,2 @@
 # Hamdard-university-survey-form-dbms
+This project is a simple web-based Online Survey Management System developed as part of a Database Management System (DBMS) course. It allows users to submit survey responses through a user-friendly interface while storing the data in a SQL Server database using PHP for backend processing. The project demonstrates fundamental database concepts such as form handling, data validation, and database connectivity.
